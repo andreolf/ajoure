@@ -7,7 +7,7 @@ angular.module('starter.services', [])
   var chats = [{
     id: 0,
     name: 'Lactaid',
-    lastText: 'You on your way?',
+    lastText: 'Real, wholesome low fat milk that delivers all the protein.',
     lastlastText: "$5?",
     face: 'https://github.com/andreolf/ajoure/blob/master/www/img/Milk.jpg?raw=true'
   }, {
