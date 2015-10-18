@@ -6,7 +6,7 @@ angular.module('starter.services', [])
   // Some fake testing data
   var chats = [{
     id: 0,
-    name: 'Lactaid',
+    name: 'Milk',
     lastText: 'Real, wholesome low fat milk that delivers all the protein.',
     lastlastText: "$5?",
     face: 'https://github.com/andreolf/ajoure/blob/master/www/img/Milk.jpg?raw=true'
@@ -24,27 +24,27 @@ angular.module('starter.services', [])
     face: 'https://github.com/andreolf/ajoure/blob/master/www/img/SanPellegrino.jpg?raw=true'
   }, {
     id: 3,
-    name: 'Kerrygold',
+    name: 'Butter',
     lastText: 'Look at my mukluks!',
     lastlastText: "$5?",
     face: 'https://github.com/andreolf/ajoure/blob/master/www/img/Kerrygold.jpg?raw=true'
   }, {
     id: 4,
-    name: 'Sargento',
+    name: 'Cheese',
     lastText: 'This is wicked good ice cream.',
     lastlastText: "$5?",
     face: 'https://github.com/andreolf/ajoure/blob/master/www/img/Sargento.jpg?raw=true'
   
   }, {
     id: 5,
-    name: 'CreamOLand',
+    name: 'Eggs',
     lastText: 'This is wicked good ice cream.',
     lastlastText: "$5?",
     face: 'https://github.com/andreolf/ajoure/blob/master/www/img/Eggs.jpg?raw=true'
 
 }, {
     id: 6,
-    name: 'CreamOLand1',
+    name: 'SourCream',
     lastText: 'This is wicked good ice cream.',
     lastlastText: "$5?",
     face: 'https://github.com/andreolf/ajoure/blob/master/www/img/SourCream.jpg?raw=true'
@@ -58,56 +58,56 @@ angular.module('starter.services', [])
 
     }, {
     id: 8,
-    name: 'Applegate Farms',
+    name: 'Beacon',
     lastText: 'This is wicked good ice cream.',
     lastlastText: "$5?",
     face: 'https://github.com/andreolf/ajoure/blob/master/www/img/Beacon.jpg?raw=true'
 
     }, {
     id: 9,
-    name: 'General Mills',
+    name: 'Cereal',
     lastText: 'This is wicked good ice cream.',
     lastlastText: "$5?",
     face: 'https://github.com/andreolf/ajoure/blob/master/www/img/TotalCereal.jpg?raw=true'
 
     }, {
     id: 10,
-    name: 'Newman s Own',
+    name: 'Mild Salsa',
     lastText: 'This is wicked good ice cream.',
     lastlastText: "$5?",
     face: 'https://github.com/andreolf/ajoure/blob/master/www/img/MildSalsa.jpg?raw=true'
 
     }, {
     id: 11,
-    name: "Ken's Steakhouse",
+    name: "Steak Sauce",
     lastText: 'This is wicked good ice cream.',
     lastlastText: "$5?",
     face: 'https://github.com/andreolf/ajoure/blob/master/www/img/SteaksHouse.jpg?raw=true'
 
     }, {
     id: 12,
-    name: 'Popcorn Indiana',
+    name: 'Popcorn',
     lastText: 'This is wicked good ice cream.',
     lastlastText: "$5?",
     face: 'https://github.com/andreolf/ajoure/blob/master/www/img/Popcorn.jpg?raw=true'
 
     }, {
     id: 13,
-    name: 'Pepperidge Farm',
+    name: 'Cookies',
     lastText: 'This is wicked good ice cream.',
     lastlastText: "$5?",
     face: 'https://github.com/andreolf/ajoure/blob/master/www/img/Cookies.jpg?raw=true'
 
     }, {
     id: 14,
-    name: 'Altoids',
+    name: 'Chiara Mints',
     lastText: 'This is wicked good ice cream.',
     lastlastText: "$5?",
     face: 'https://github.com/andreolf/ajoure/blob/master/www/img/Mint.jpg?raw=true'
 
     }, {
     id: 15,
-    name: 'Non-Organic',
+    name: 'Vilma Apple',
     lastText: 'This is wicked good ice cream.',
     lastlastText: "$5?",
     face: 'https://github.com/andreolf/ajoure/blob/master/www/img/Apple.jpg?raw=true'
