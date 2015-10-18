@@ -3,6 +3,16 @@
     <ion-nav-back-button></ion-nav-back-button>
   </ion-nav-bar>
   <ion-content>
+
+  <div class="item item-input-inset">
+    <label class="item-input-wrapper">
+      <input type="text" placeholder="Search Item">
+    </label>
+    <button class="button button-positive button-small">
+      Submit
+    </button>
+  </div>
+
     <ion-list>
       <ion-item class="item-remove-animate item-avatar item-icon-right" ng-repeat="ref in refs" type="item-text-wrap" href="#/tab/refs/{{ref.id}}">
         <img ng-src="{{ref.face}}">

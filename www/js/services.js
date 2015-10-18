@@ -155,14 +155,47 @@ angular.module('starter.services', [])
     face: 'http://materialsinsight.com/wp-content/uploads/2011/03/pepsi-bottle.jpg'
   }, {
     id: 3,
-    name: 'Doritos',
+    name: 'Chips Lays Original',
     lastText: '3 still',
-    face: 'http://www.underconsideration.com/brandnew/archives/doritos_fix_package_detail_01.jpg'
+    face: 'http://vignette2.wikia.nocookie.net/community-sitcom/images/9/93/Laysoriginal.gif/revision/latest?cb=20120808122745'
   }, {
     id: 4,
     name: 'Beacon',
     lastText: '1 pound still',
     face: 'https://github.com/andreolf/ajoure/blob/master/www/img/Beacon.jpg?raw=true'
+
+ }, {
+    id: 5,
+    name: 'Tuna',
+    lastText: '3 cans still',
+    face: 'http://starkist.com/sites/default/files/products/3307_Can-in-water-%26-Oil-chunk-light-water_0.png'
+  }, {
+    id: 6,
+    name: 'Zucchini',
+    lastText: '3 still',
+    face: 'http://mrm-usa.com/wp-content/uploads/2014/01/Zucchini1.jpg'
+  }, {
+    id: 7,
+    name: 'Cheese',
+    lastText: '1 pound still',
+    face: 'https://www.finlandiacheese.com/wp-content/uploads/2013/03/FIN_LightSwiss_Collage.png?dbab77'
+ }, {
+    id: 8,
+    name: 'Zero Pepsi',
+    lastText: '3 still',
+    face: 'http://materialsinsight.com/wp-content/uploads/2011/03/pepsi-bottle.jpg'
+  }, {
+    id: 9,
+    name: 'Doritos',
+    lastText: '3 still',
+    face: 'http://www.underconsideration.com/brandnew/archives/doritos_fix_package_detail_01.jpg'
+  }, {
+    id: 10,
+    name: 'AlphaTuna',
+    lastText: '1 pound still',
+    face: 'http://starkist.com/sites/default/files/products/3307_Can-in-water-%26-Oil-chunk-light-water_0.png'
+
+
   }];
 
 
