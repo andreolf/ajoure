@@ -228,23 +228,44 @@ angular.module('starter.services', [])
   // Some fake testing data
   var bchats = [{
     id: 0,
-    name: "Garden Eden 10/13/2015", 
+    name: "Garden Eden 10/1/2015", 
     lastText: 'Processed',
     face: 'https://github.com/andreolf/ajoure/blob/master/www/img/GardenEden.jpg?raw=true',
     deets: 'https://github.com/andreolf/ajoure/blob/master/www/img/ScreenShot1.png?raw=true'
   }, {
     id: 1,
-    name: " Whole Food's 10/13/2015",
+    name: " Whole Food's 10/3/2015",
     lastText: 'Processed',
     face: 'https://github.com/andreolf/ajoure/blob/master/www/img/WholeFood.jpg?raw=true',
     deets: 'https://github.com/andreolf/ajoure/blob/master/www/img/ScreenShot2.png?raw=true'
-  }, {
+}, {
     id: 2,
-    name: "Trader's Joes 10/13/2015",
+    name: " Whole Food's 10/07/2015",
+    lastText: 'Processed',
+    face: 'https://github.com/andreolf/ajoure/blob/master/www/img/WholeFood.jpg?raw=true',
+    deets: 'https://github.com/andreolf/ajoure/blob/master/www/img/ScreenShot2.png?raw=true'
+}, {
+       id: 3,
+    name: "Garden Eden 10/1/2015", 
+    lastText: 'Processed',
+    face: 'https://github.com/andreolf/ajoure/blob/master/www/img/GardenEden.jpg?raw=true',
+    deets: 'https://github.com/andreolf/ajoure/blob/master/www/img/ScreenShot1.png?raw=true'
+}, {
+    id: 4,
+    name: " Whole Food's 10/14/2015",
+    lastText: 'Processed',
+    face: 'https://github.com/andreolf/ajoure/blob/master/www/img/WholeFood.jpg?raw=true',
+    deets: 'https://github.com/andreolf/ajoure/blob/master/www/img/ScreenShot2.png?raw=true'
+
+  }, {
+    id: 5,
+    name: "Trader's Joes 10/18/2015",
     lastText: 'Unprocessed',
     face: 'https://github.com/andreolf/ajoure/blob/master/www/img/TradersJoe.jpg?raw=true',
     deets: 'https://github.com/andreolf/ajoure/blob/master/www/img/traderjoes.jpg?raw=true'
   }];
+
+
 
 
 
