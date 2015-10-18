@@ -82,14 +82,14 @@ angular.module('starter.services', [])
     name: "Ken's Steakhouse",
     lastText: 'This is wicked good ice cream.',
     lastlastText: "$5?",
-    face: 'https://pbs.twimg.com/profile_images/578237281384841216/R3ae1n61.png'
+    face: 'https://github.com/andreolf/ajoure/blob/master/www/img/SteaksHouse.jpg?raw=true'
 
     }, {
     id: 12,
     name: 'Popcorn Indiana',
     lastText: 'This is wicked good ice cream.',
     lastlastText: "$5?",
-    face: 'https://github.com/andreolf/ajoure/blob/master/www/img/SteaksHouse.jpg?raw=true'
+    face: 'https://github.com/andreolf/ajoure/blob/master/www/img/Popcorn.jpg?raw=true'
 
     }, {
     id: 13,
