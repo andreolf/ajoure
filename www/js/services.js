@@ -118,29 +118,22 @@ angular.module('starter.services', [])
   // Some fake testing data
   var bchats = [{
     id: 0,
-    name: 'Milk',
-    lastText: 'You on your way?',
-    face: 'https://pbs.twimg.com/profile_images/514549811765211136/9SgAuHeY.png'
+    name: "Garden Eden 10/13/2015", 
+    lastText: 'Processed',
+    face: 'https://github.com/andreolf/ajoure/blob/master/www/img/GardenEden.jpg?raw=true',
+    deets: 'https://pbs.twimg.com/profile_images/514549811765211136/9SgAuHeY.png'
   }, {
     id: 1,
-    name: 'Eggs',
-    lastText: 'Hey, it\'s me',
-    face: 'https://avatars3.githubusercontent.com/u/11214?v=3&s=460'
+    name: " Whole Food's 10/13/2015",
+    lastText: 'Processed',
+    face: 'https://github.com/andreolf/ajoure/blob/master/www/img/WholeFood.jpg?raw=true',
+    deets: 'https://avatars3.githubusercontent.com/u/11214?v=3&s=460'
   }, {
     id: 2,
-    name: 'Pepsi',
-    lastText: 'I should buy a boat',
-    face: 'https://pbs.twimg.com/profile_images/479090794058379264/84TKj_qa.jpeg'
-  }, {
-    id: 3,
-    name: 'Doritos',
-    lastText: 'Look at my mukluks!',
-    face: 'https://pbs.twimg.com/profile_images/598205061232103424/3j5HUXMY.png'
-  }, {
-    id: 4,
-    name: 'Salats',
-    lastText: 'This is wicked good ice cream.',
-    face: 'https://pbs.twimg.com/profile_images/578237281384841216/R3ae1n61.png'
+    name: "Trader's Joes 10/13/2015",
+    lastText: 'Unprocessed',
+    face: 'https://github.com/andreolf/ajoure/blob/master/www/img/TradersJoe.jpg?raw=true',
+    deets: 'https://github.com/andreolf/ajoure/blob/master/www/img/traderjoes.jpg?raw=true'
   }];
 
 
