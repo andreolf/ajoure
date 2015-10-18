@@ -69,6 +69,47 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services'])
       }
     })
 
+
+  .state('tab.refs', {
+      url: '/refs',
+      views: {
+        'tab-refs': {
+          templateUrl: 'templates/tab-refs.html',
+          controller: 'RefsCtrl'
+        }
+      }
+    })
+    .state('tab.ref-detail', {
+      url: '/refs/:refId',
+      views: {
+        'tab-refs': {
+          templateUrl: 'templates/ref-detail.html',
+          controller: 'RefDetailCtrl'
+        }
+      }
+    })
+
+
+  .state('tab.bchats', {
+      url: '/bchats',
+      views: {
+        'tab-bchats': {
+          templateUrl: 'templates/tab-bchats.html',
+          controller: 'bChatsCtrl'
+        }
+      }
+    })
+    .state('tab.bchat-detail', {
+      url: '/bchats/:bchatId',
+      views: {
+        'tab-bchats': {
+          templateUrl: 'templates/bchat-detail.html',
+          controller: 'bChatDetailCtrl'
+        }
+      }
+    })
+
+
   .state('tab.account', {
     url: '/account',
     views: {
