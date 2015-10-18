@@ -199,13 +199,13 @@ angular.module('starter.services', [])
     name: "Garden Eden 10/13/2015", 
     lastText: 'Processed',
     face: 'https://github.com/andreolf/ajoure/blob/master/www/img/GardenEden.jpg?raw=true',
-    deets: ''
+    deets: 'https://github.com/andreolf/ajoure/blob/master/www/img/ScreenShot1.png?raw=true'
   }, {
     id: 1,
     name: " Whole Food's 10/13/2015",
     lastText: 'Processed',
     face: 'https://github.com/andreolf/ajoure/blob/master/www/img/WholeFood.jpg?raw=true',
-    deets: ''
+    deets: 'https://github.com/andreolf/ajoure/blob/master/www/img/ScreenShot2.png?raw=true'
   }, {
     id: 2,
     name: "Trader's Joes 10/13/2015",
