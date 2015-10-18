@@ -3,6 +3,19 @@
     <ion-nav-back-button></ion-nav-back-button>
   </ion-nav-bar>
   <ion-content>
+
+
+
+  <div class="item item-input-inset">
+    <label class="item-input-wrapper">
+      <input type="text" placeholder="Favorite Item">
+    </label>
+    <button class="button botton-positive button-small">
+      Submit
+    </button>
+  </div>
+
+
     <ion-list>
       <ion-item class="item-remove-animate item-avatar item-icon-right" ng-repeat="chat in chats" type="item-text-wrap" href="#/tab/chats/{{chat.id}}">
         <img ng-src="{{chat.face}}">
@@ -21,8 +34,15 @@
         </ion-option-button>
       </ion-item>
     </ion-list>
+
+
+
+
   </ion-content>
 </ion-view>
+
+
+
 
 
 <!-- <img src="./imp/smileface.jpc" width="40px" >  -->
