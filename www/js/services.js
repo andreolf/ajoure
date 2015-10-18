@@ -6,7 +6,7 @@ angular.module('starter.services', [])
   // Some fake testing data
   var chats = [{
     id: 0,
-    name: 'Milk',
+    name: 'Lactaid Milk',
     lastText: 'Real, wholesome low fat milk that delivers all the protein.',
     lastlastText: "$5?",
     face: 'https://github.com/andreolf/ajoure/blob/master/www/img/Milk.jpg?raw=true'
@@ -113,8 +113,6 @@ angular.module('starter.services', [])
     face: 'https://github.com/andreolf/ajoure/blob/master/www/img/Apple.jpg?raw=true'
 
   }];
-
-
 
 
   return {
